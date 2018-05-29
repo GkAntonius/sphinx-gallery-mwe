@@ -1,0 +1,4 @@
+myproject package
+=================
+
+Nothing to see here.
