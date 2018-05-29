@@ -1,5 +1,6 @@
 """
-Circle plot.
+Circle plot
+===========
 
 Uses a function to plot a circle.
 """

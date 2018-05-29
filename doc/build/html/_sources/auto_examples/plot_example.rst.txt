@@ -3,7 +3,8 @@
 .. _sphx_glr_auto_examples_plot_example.py:
 
 
-Circle plot.
+Circle plot
+===========
 
 Uses a function to plot a circle.
 
@@ -26,7 +27,7 @@ Uses a function to plot a circle.
     fig = get_circle_plot()
     plt.show()
 
-**Total running time of the script:** ( 0 minutes  0.028 seconds)
+**Total running time of the script:** ( 0 minutes  0.029 seconds)
 
 
 
